@@ -1,4 +1,4 @@
-# BMW Hackathon — Sensor Impact Analysis
+# BMW Hackathon — Causal Machine Learning
 
 ## Overview
 This project was developed during the **BMW Hackathon 2023**.
@@ -52,4 +52,4 @@ The workflow includes **EDA, preprocessing, feature engineering, imputation, and
 ---
 
 ## Next Steps
-Solve the error
+Solve the error and include temperature feature
